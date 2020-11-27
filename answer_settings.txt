@@ -1,0 +1,4 @@
+{
+    "政治": "zz_answer.txt",
+    "工程伦理":"gcll_answer.txt"
+}

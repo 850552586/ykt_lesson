@@ -1,0 +1,24 @@
+第一章测试 中国特色社会主义的开创与发展
+A B D D B C B A C D ABCD ABCD ABCDE ABCDE ABD
+第二章测试 中国特色社会主义的理论底色
+A C D A D C A C B ABC ABCE AC AC ABC ABC
+第三章测试 中国特色社会主义的思想源头
+A B A B C B D B A ABC ABC ABCD ABC ABC AC
+第四章测试 中国特色社会主义的历史背景
+A A C A C B A B B B B A C C B ABC ACD ABD ACD ABD ABCD ABCD C 
+第五章 中国特色社会主义进入新时代
+A B B C B A C B A D D C ABCD ABC ABC
+第六章测试 中国特色社会主义经济建设
+B C B C D C C C B C C A A ABC BCD
+第七章测试 中国特色社会主义政治建设
+B B C A C C A C B D C B ABCD ABC AC
+第八章测试 中国特色社会主义文化建设
+A C A C B B B C A C C B BC ABD ABCD
+第九章测试 中国特色社会主义社会建设
+A C C B B A A C D A ABC ABCD ABCD
+第十章测试 中国特色社会主义生态文明建设
+B A B B C A C C B D B ABD ABCD ABC ABC
+第十一章测试 中国特色社会主义国际形象建设
+A A D B B A D B B ABD ACD ABCD ABC ABCD ABC
+第十二章测试 中国特色社会主义政党建设
+B C A C C A C C A C A ABCD ABCD ABC ABC ABCD
