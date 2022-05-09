@@ -6,7 +6,7 @@
 
 <font color="red">**本项目仅用于分享脚本经验，一切使用该脚本的用户所作出的行为与本项目无关！请勿应用于商业途径，请勿擅自转载！如有侵权，请issues告知！**</font>
 
-[项目介绍](/post/jiao-ben-yu-ke-tang-zi-dong-hua-python-jiao-ben/)
+[项目介绍](https://ericam.top/post/jiao-ben-yu-ke-tang-zi-dong-hua-python-jiao-ben/)
 
 
 
